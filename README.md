@@ -30,13 +30,13 @@ There are two ways you can add this. The simplest way is to add the URL of the `
 
 ### Brave Shields
 
-Click on the Brave Shields icon in the address bar and selecting the **Filter lists** button at the bottom of that menu. Navigate to **Add custom filter lists** and paste the [URL to the file](https://github.com/tenshi-net/mewe-cleanup-filter/blob/main/mewecleanup.txt) in the text box.
+Click on the Brave Shields icon in the address bar and selecting the **Filter lists** button at the bottom of that menu. Navigate to **Add custom filter lists** and paste the [URL to the file](https://raw.githubusercontent.com/tenshi-net/mewe-cleanup-filter/refs/heads/main/mewecleanup.txt) in the text box.
 
 _For the non-updating version:_ copy the data from `mewecleanup.txt`. Navigate to the **Create custom filters** section and enable Developer mode. From there, copy the contents of `mewecleanup.txt` and paste them at the bottom of the **Create custom filters** menu and save your changes.
 
 ### uBlock Origin
 
-Open your uBlock settings menu. Navigate to the **Filter lists** tab. Scroll to the bottom, to the section labeled "Import...". Paste [the URL](https://github.com/tenshi-net/mewe-cleanup-filter/blob/main/mewecleanup.txt) into that text box and select **Apply changes**.
+Open your uBlock settings menu. Navigate to the **Filter lists** tab. Scroll to the bottom, to the section labeled "Import...". Paste [the URL](https://raw.githubusercontent.com/tenshi-net/mewe-cleanup-filter/refs/heads/main/mewecleanup.txt) into that text box and select **Apply changes**.
 
 _For the non-updating version:_ copy the data from `mewecleanup.txt`. Navigate to the **My filters** tab. Paste the contents of `mewecleanup.txt` to the bottom of the text section. Ensure "Enable my custom filters" is ticked and then **Apply changes**.
 
