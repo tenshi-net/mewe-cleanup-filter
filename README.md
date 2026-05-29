@@ -20,6 +20,18 @@ The reason I set this up the way I did was because the ads weren't the only thin
 
 It doesn't remove Soshi entirely, obviously. It also doesn't bypass the ridiculous paywalls that people can hide their posts behind, as I can't legally help people evade paywalls. Further, I didn't block the new "My Apps" menu on the left side panel because those aren't inherently anti-consumer. Additionally, for legal reasons, I would like to state categorically that **this doesn't do anything illegal**. This is simply a customized version of your standard ad blocker [many people run](https://odysee.com/@rossmanngroup:a/why-i-support-adblockers-why-you-should:c) in their browsers today.
 
+## How to use
+
+Right now, this repo is private and not meant for the general public for a few reasons. As such, you wouldn't add this the way you'd add most blocklists.
+
+### Brave Shields
+
+Click on the Brave Shields icon in the address bar and selecting the **Filter lists** button at the bottom of that menu. Navigate to the **Create custom filters** section and enable Developer mode. From there, copy the contents of `mewecleanup.txt` and paste them at the bottom of the **Create custom filters** menu and save your changes.
+
+### uBlock Origin
+
+Open your uBlock settings menu. Navigate to the **My filters** tab. Paste the contents of `mewecleanup.txt` to the bottom of the text section. Ensure "Enable my custom filters" is ticked and then **Apply changes**.
+
 ## Disclaimer
 
 I don't hate MeWe. Not by a long shot. I love it and I understand it needs to be profitable in order to survive and grow. I'm also not opposed to opt-in ads entirely, but I do refuse to support ads if they're continually made **more** intrusive, **less** optional, and the basis upon which the company continues to take away features and value from customers. If you enjoy MeWe as I do and you use this list, I highly encourage you to consider subscribing to MeWe Premium. It's a great value if you use the platform regularly and I would bet it provides a lot more financial support than these ridiculous ads have. It's important to support them if you like the platform because they don't monetize our data. I just don't agree with the way they're attempting to bring in extra income through alternative means.
