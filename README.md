@@ -7,6 +7,7 @@ This filter list, originally created with Brave's built-in ad blocker ("Brave Sh
 It completely blocks the following:
 - All of the "optional" ad boxes from all feeds
 - The Soshi wallet button
+- The "locked content" option on the updated posts menu
 - The junk links on the bottom left (mostly just links to ToS/privacy policy and such)
 - The stories bar
 - The Explore feed
