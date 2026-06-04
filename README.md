@@ -8,6 +8,7 @@ It completely blocks the following:
 - All of the "optional" ad boxes from all feeds
 - The Soshi wallet button
 - The "locked content" option on the updated posts menu
+- The "mint your group" box for group owners (since this list blocks the ads/wallet anyway)
 - The junk links on the bottom left (mostly just links to ToS/privacy policy and such)
 - The stories bar
 - The Explore feed
