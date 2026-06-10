@@ -15,3 +15,4 @@ mewe.com##.d-flex.c-mw-group-mint-nft
 mewe.com##.c-mw-links-footer.mw-box.gapy-8
 mewe.com##.store_banner.banner-premium.items-center.banner--active
 mewe.com##.store_banner-carousel.mb-32.slide-0
+mewe.com##.postbox_option.locked-content-control
