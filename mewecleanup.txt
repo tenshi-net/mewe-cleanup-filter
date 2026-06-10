@@ -15,5 +15,6 @@ mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(30)
 mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(35)
 mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(40)
 mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(45)
+mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(50)
 mewe.com##.postbox_option.locked-content-control
 mewe.com##.d-flex.c-mw-group-mint-nft
