@@ -1,0 +1,17 @@
+mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(5)
+mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(10)
+mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(15)
+mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(15)
+mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(20)
+mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(20)
+mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(25)
+mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(30)
+mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(35)
+mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(40)
+mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(45)
+mewe.com##div.c-mw-posts-feed-ad-view.ad-blur-overlay:nth-of-type(50)
+mewe.com###ember8
+mewe.com##.d-flex.c-mw-group-mint-nft
+mewe.com##.c-mw-links-footer.mw-box.gapy-8
+mewe.com##.store_banner.banner-premium.items-center.banner--active
+mewe.com##.store_banner-carousel.mb-32.slide-0
