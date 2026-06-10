@@ -4,7 +4,7 @@ This filter list, originally created with Brave's built-in ad blocker ("Brave Sh
 
 ## What it does
 
-It completely blocks the following:
+The full version (`mewecleanup.txt`) completely blocks the following:
 - All of the "optional" ad boxes from all feeds
 - The Soshi wallet button
 - The "locked content" option on the updated posts menu
@@ -13,6 +13,14 @@ It completely blocks the following:
 - The stories bar
 - The Explore feed
 - The obnoxious MeWe Premium banner at the top of the [store page](https://mewe.com/store)
+
+There's also an alternative lite version (`soshicleanup.txt`) that only blocks Soshi-related features, leaving the Explore feed and stories bar intact:
+- All ad boxes from all feeds
+- The Soshi wallet button
+- The "locked content" option on the posts menu
+- The "mint your group" box for group owners
+- Bottom-left junk links
+- MeWe Premium banner on the storage page
 
 ### Why does it block x/y/z?
 
@@ -28,19 +36,15 @@ Literally **any user could manually do everything I've done here** by using the 
 
 ## How to use
 
-There are two ways you can add this. The simplest way is to add the URL of the `mewecleanup.txt` file to your ad blocker's filter lists. Alternatively, you can add a non-updating version by directly copying the data from the file and pasting it as a custom filter rule.
+The simplest way to use this is to navigate to the filter you want, select the **Raw** button in the top-right of the menu above the text, and copy the URL of the raw page (the URL will now have`raw.githubusercontent.com` in it). From there, add that URL to your ad blocker. Alternatively, you can add a non-updating version by directly copying the data from the file and pasting it as a custom filter rule.
 
 ### Brave Shields
 
-Click on the Brave Shields icon in the address bar and selecting the **Filter lists** button at the bottom of that menu. Navigate to **Add custom filter lists** and paste the [URL to the file](https://raw.githubusercontent.com/tenshi-net/mewe-cleanup-filter/refs/heads/main/mewecleanup.txt) in the text box.
-
-_For the non-updating version:_ copy the data from `mewecleanup.txt`. Navigate to the **Create custom filters** section and enable Developer mode. From there, copy the contents of `mewecleanup.txt` and paste them at the bottom of the **Create custom filters** menu and save your changes.
+Click on the Brave Shields icon in the address bar and selecting the **Filter lists** button at the bottom of that menu. Navigate to **Add custom filter lists** and paste the raw URL of the file of the filter you want to use.
 
 ### uBlock Origin
 
-Open your uBlock settings menu. Navigate to the **Filter lists** tab. Scroll to the bottom, to the section labeled "Import...". Paste [the URL](https://raw.githubusercontent.com/tenshi-net/mewe-cleanup-filter/refs/heads/main/mewecleanup.txt) into that text box and select **Apply changes**.
-
-_For the non-updating version:_ copy the data from `mewecleanup.txt`. Navigate to the **My filters** tab. Paste the contents of `mewecleanup.txt` to the bottom of the text section. Ensure "Enable my custom filters" is ticked and then **Apply changes**.
+Open your uBlock settings menu. Navigate to the **Filter lists** tab. Scroll to the bottom, to the section labeled "Import...". Paste the raw URL into that text box and select **Apply changes**.
 
 ## Disclaimer
 
