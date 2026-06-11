@@ -6,6 +6,7 @@ This filter list, originally created with Brave's built-in ad blocker ("Brave Sh
 
 The full version (`mewecleanup.txt`) completely blocks the following:
 - All of the "optional" ad boxes from all feeds
+- The Watch button to access the shortform video feed
 - The Soshi wallet button
 - The "locked content" option on the updated posts menu
 - The "mint your group" box for group owners (since this list blocks the ads/wallet anyway)
