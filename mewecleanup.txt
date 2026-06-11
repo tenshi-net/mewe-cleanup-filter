@@ -1,6 +1,7 @@
 mewe.com##.c-mw-navigation-tabs.no-border > .nav-tabs_wrapper.p-relative.w-100.items-center > .nav-tabs_container
 mewe.com##span.nav-tabs_item:nth-of-type(2)
 mewe.com##.c-mw-links-footer.mw-box.gapy-8
+mewe.com###ember5
 mewe.com###ember8
 mewe.com##.store_banner.banner-premium.items-center.banner--active
 mewe.com##.store_banner-carousel.mb-32.slide-0
